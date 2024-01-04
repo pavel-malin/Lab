@@ -1,0 +1,68 @@
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.exe.config
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.exe
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 2.csproj.AssemblyReference.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба_2.Form1.resources
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба_7.Properties.Resources.resources
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 2.csproj.GenerateResource.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 2.csproj.CoreCompileInputs.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.exe
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\x86\sqlite3.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\x64\sqlite3.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\EntityFramework.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Data.SQLite.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\EntityFramework.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Data.SQLite.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 2.csproj.CopyComplete
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Abstractions.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Extensions.Oracle.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Core.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Oracle.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Buffers.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Memory.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.ValueTuple.dll
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Abstractions.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Abstractions.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Extensions.Oracle.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Extensions.Oracle.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Core.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Core.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Oracle.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\FluentMigrator.Runner.Oracle.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Buffers.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Memory.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\System.ValueTuple.xml
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll

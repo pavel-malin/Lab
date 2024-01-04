@@ -1,0 +1,10 @@
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.csproj.AssemblyReference.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба_2.Form1.resources
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба_7.Properties.Resources.resources
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.csproj.GenerateResource.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.csproj.CoreCompileInputs.cache
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.exe.config
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.exe
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\bin\Debug\лаба 7.pdb
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.exe
+C:\Users\79991\Downloads\DB-master\DB-master\лаба 7\obj\Debug\лаба 7.pdb
